@@ -1,2 +1,9 @@
 # estruturas-de-dados-java
-Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DIO
+
+Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DIO:
+
+1. Diferenças entre atribuições em primitivos e objetos
+
+2. Conceito de encademaneto de nós
+
+
