@@ -24,9 +24,28 @@ public class Pilha {
     }
 
     public boolean isEmpity() {
-        if(refNoEntradaPilha == null) {
-            return true;
+        //if(refNoEntradaPilha == null) {
+        //  return true;
+       // }
+        return  refNoEntradaPilha == null ? true : false;
+    }
+    @Override
+    public String toString() {
+        String stringRetorno = "-------------\n";
+        stringRetorno += "    Pilha\n";
+        stringRetorno += "-------------\n";
+
+        No noAuxiliar = refNoEntradaPilha;
+
+        while (true) {
+            if(noAuxiliar != null) {
+                stringRetorno += "[No{dado=" + noAuxiliar.getDado() + "}]\n";
+                noAuxiliar = noAuxiliar.getRefNo();
+            }else {
+                break;
+            }
         }
-        return  false;
+        stringRetorno += "=============\n";
+        return stringRetorno;
     }
 }
