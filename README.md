@@ -9,3 +9,5 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 3. Conceito de pilha
 
 4. Conceito de fila
+
+5. Lista encadeada
