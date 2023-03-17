@@ -15,3 +15,5 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 6. Lista duplamente encadeada
 
 7. Lista circular
+
+8. Árvore Binária
