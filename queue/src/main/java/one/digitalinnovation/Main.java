@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Nada precisou ser adicionado na classe Carro
-        
+
         Queue<Carro> queueCarros = new LinkedList<>();
 
         queueCarros.add(new Carro("Ford"));

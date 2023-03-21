@@ -19,3 +19,5 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 8. Árvore Binária
 
 9. Equals e hashCode
+
+10. Array List
