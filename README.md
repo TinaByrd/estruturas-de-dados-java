@@ -21,3 +21,5 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 9. Equals e hashCode
 
 10. Array List
+
+11. Set (Hashset)
