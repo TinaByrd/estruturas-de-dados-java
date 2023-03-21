@@ -17,3 +17,5 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 7. Lista circular
 
 8. Árvore Binária
+
+9. Equals e hashCode
