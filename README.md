@@ -6,7 +6,7 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 
 2. Conceito de encademaneto de nós
 
-3. Conceito de pilha
+3. Conceito de pilha (stack)
 
 4. Conceito de fila
 
