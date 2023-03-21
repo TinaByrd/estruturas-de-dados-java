@@ -8,7 +8,7 @@ Repositório dedicado a estudar estruturas de dados e Java durante o BootCamp DI
 
 3. Conceito de pilha (stack)
 
-4. Conceito de fila
+4. Conceito de fila (queue)
 
 5. Lista encadeada
 
